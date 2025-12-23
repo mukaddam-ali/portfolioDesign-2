@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[28127,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Navigation"]
+3:I[77258,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Hero"]
+4:I[68264,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Projects"]
+5:I[34506,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Experience"]
+6:I[69411,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Skills"]
+7:I[47710,["/portfolioDesign-2/_next/static/chunks/f3c27549b54b9b1e.js","/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js"],"Contact"]
+8:I[97367,["/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","/portfolioDesign-2/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"buildId":"qCYOXXwWQ9TJUf7LA4nkY","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}],[["$","script","script-0",{"src":"/portfolioDesign-2/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/portfolioDesign-2/_next/static/chunks/0be93b817779f3c8.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
